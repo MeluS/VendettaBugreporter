@@ -4,6 +4,7 @@
 - Para postear una inidencia en este GitHub siga las [**plantillas que están preestablecidas**](https://github.com/MeluS/VendettaPTRLK#c%C3%B3mo-reportar-un-error), o revise los [**vídeos de como postear una incidencia**](https://github.com/MeluS/VendettaPTRLK#v%C3%ADdeo-gu%C3%ADa-de-c%C3%B3mo-postear-una-incidencia).
 - Cualquier incidencia mal reportada, con datos insuficientes o sin fundamento no será atendida y será **cerrada y/o eliminada**.
 - Lea atentamente las [**notas del PTR**](http://ptr.vendettawow.com/) para saber lo que puede testear.
+- Deberá estar registrado en GitHub para poder postear una incidencia, puede registrarse haciendo [**click aquí**](https://github.com/join?source=header-home).
 ____________________________________________________________________________________________________
 # ¿Cómo reportar un error?
 **Puede postear una incidencia haciendo** [**click aquí**](https://github.com/MeluS/VendettaPTRLK/issues/new) **directamente.**
