@@ -1,7 +1,7 @@
 # [**VendettaPTRLK**](https://www.vendettawow.com/forums.php?do=view&idthread=1542)
 
 - Para reportar en este github sigue las [**plantillas que están preestablecidas**](https://github.com/MeluS/VendettaPTRLK#c%C3%B3mo-reportar-un-error).
-- Cualquier bug mal reportado o sin fundamento no será atendido y será cerrado/eliminado.
+- Cualquier bug mal reportado o sin fundamento no será atendido y será <font color="red">**cerrado/eliminado**</font>.
 - Lee atentamente las [**notas del PTR**](http://ptr.vendettawow.com/) para saber que puedes testear.
 - Como plataforma de uso compartido de toda la comunidad, nos reservamos el derecho de bloquear, expulsar o eliminar cualquier contenido que inflinja las [**Normas Vendetta**](https://www.vendettawow.com/forums.php?do=view&idthread=897).
 
