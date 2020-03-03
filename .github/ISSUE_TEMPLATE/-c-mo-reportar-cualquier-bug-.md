@@ -1,12 +1,3 @@
----
-name: "¿Cómo reportar cualquier bug?"
-about: Siga las instrucciones para saber cómo reportar un bug.
-title: ''
-labels: ''
-assignees: MeluS
-
----
-
 **Describe el error**
 Una descripción clara y concisa de lo que es el error.
 
