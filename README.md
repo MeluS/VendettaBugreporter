@@ -1,7 +1,7 @@
 # [**VendettaPTRLK**](https://www.vendettawow.com/forums.php?do=view&idthread=1542)
 
 - Como plataforma de uso compartido de toda la comunidad, nos reservamos el derecho de bloquear, expulsar o eliminar cualquier contenido que inflinja las [**Normas Vendetta**](https://www.vendettawow.com/forums.php?do=view&idthread=897).
-- Para postear una inidencia en este github siga las [**plantillas que están preestablecidas**](https://github.com/MeluS/VendettaPTRLK#c%C3%B3mo-reportar-un-error), o revise los [**videos de como postear una incidencia**](https://github.com/MeluS/VendettaPTRLK#v%C3%ADdeo-gu%C3%ADa-de-c%C3%B3mo-postear-una-incidencia).
+- Para postear una inidencia en este GitHub siga las [**plantillas que están preestablecidas**](https://github.com/MeluS/VendettaPTRLK#c%C3%B3mo-reportar-un-error), o revise los [**vídeos de como postear una incidencia**](https://github.com/MeluS/VendettaPTRLK#v%C3%ADdeo-gu%C3%ADa-de-c%C3%B3mo-postear-una-incidencia).
 - Cualquier incidencia mal reportada, con datos insuficientes o sin fundamento no será atendida y será **cerrada y/o eliminada**.
 - Lea atentamente las [**notas del PTR**](http://ptr.vendettawow.com/) para saber lo que puede testear.
 ____________________________________________________________________________________________________
@@ -30,11 +30,11 @@ Una descripción clara y concisa de lo que debería suceder en realidad.
 
 **¿Tiene algúna referencia o datos?**
 
-Facilitar datos o referencias.
+Facilítenos datos o referencias donde corresponda, proporcione fuentes relevantes que muestren o describan el comportamiento correcto.
 
 **Capturas de pantalla:**
 
-Agrega capturas de pantalla para ayudar a explicar el problema.
+Si es necesario, adjunte capturas de pantalla para ayudar a explicar el problema.
 
 **Datos extra:**
 
