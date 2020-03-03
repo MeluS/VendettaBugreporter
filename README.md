@@ -6,7 +6,7 @@
 - Lee atentamente las [**notas del PTR**](http://ptr.vendettawow.com/) para saber que puedes testear.
 
 # ¿Cómo reportar un error?
-Puedes postear una incidencia haciendo [**click aquí**](https://github.com/MeluS/VendettaPTRLK/issues/new) directamente.
+**Puedes postear una incidencia haciendo** [**click aquí**](https://github.com/MeluS/VendettaPTRLK/issues/new) **directamente.**
 
 **Título:**
 
