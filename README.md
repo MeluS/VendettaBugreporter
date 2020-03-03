@@ -20,9 +20,10 @@ Una descripción clara y concisa explicando lo que no funciona bien.
 
 Necesitaremos pasos para poder reproducir el error nosotros, por ejemplo:
 ```
-1. Ir a '...'
-2. Hablar con '....'
-3. Entrar en '....'
+Ir a '...'
+Hablar con '....'
+Entrar en '....'
+Usar '....'
 ```
 **¿Que debería suceder realmente?**
 
