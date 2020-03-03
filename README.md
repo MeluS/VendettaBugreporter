@@ -25,10 +25,10 @@ Pasos para reproducir el error, por ejemplo:
 Una descripción clara y concisa de lo que debería suceder en realidad.
 
 **¿Tienes algúna referencia o datos?**
-Facilitar datos o referencias es imprescindible para hacer un arreglo estando seguros.
+Facilitar datos o referencias.
 
 **Capturas de pantalla**
-Si corresponde, agregue capturas de pantalla para ayudar a explicar su problema.
+Si corresponde, agrega capturas de pantalla para ayudar a explicar el problema.
 
 **Datos extra:**
-Agregue cualquier otro dato extra sobre el problema.
+Agregar cualquier otro dato extra sobre el problema.
