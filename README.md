@@ -1,5 +1,4 @@
 # VendettaPTRLK
-Bugreporter del reino público de pruebas de VendettaWoW LK
 
 - Para reportar en este github sigue las [**plantillas que están preestablecidas**](https://github.com/MeluS/VendettaPTRLK#c%C3%B3mo-reportar-un-error).
 - Cualquier bug mal reportado o sin fundamento no será atendido y será cerrado/eliminado.
