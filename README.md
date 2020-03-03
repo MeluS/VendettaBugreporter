@@ -46,5 +46,4 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________
 [![VendettaLK text](http://ptr.vendettawow.com/images/asedio.png)](http://ptr.vendettawow.com/)
-
-<p align="center">Plataforma de reportes de inicidencias <a href="https://www.vendettawow.com" title="VendettaWoW"><b>VendettaWoW</b></a></p>
+<p align="center">Plataforma de reportes de inicidencias <a href="https://www.vendettawow.com" title="VendettaLK"><b>VendettaWoW</b></a></p>
