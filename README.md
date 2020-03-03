@@ -22,15 +22,19 @@ Pasos para reproducir el error, por ejemplo:
 3. Entrar en '....'
 ```
 **¿Que debería suceder?**
+
 Una descripción clara y concisa de lo que debería suceder en realidad.
 
 **¿Tienes algúna referencia o datos?**
+
 Facilitar datos o referencias.
 
 **Capturas de pantalla:**
+
 Agrega capturas de pantalla para ayudar a explicar el problema.
 
 **Datos extra:**
+
 Agregar cualquier otro dato extra sobre la incidencia.
 
 # Vídeo-guía de cómo postear una incidencia.
