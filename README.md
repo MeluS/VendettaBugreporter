@@ -9,7 +9,10 @@ Bugreporter del reino público de pruebas de VendettaWoW LK
 # ¿Cómo reportar un error?
 Puedes crear un reporte de bug haciendo [**click aquí**](https://github.com/MeluS/VendettaPTRLK/issues/new) directamente.
 
-**Describe el error**
+**Título.**
+Un título corto para describir el error.
+ 
+**Describe el error:**
 Una descripción clara y concisa de lo que es el error.
 
 **¿Cómo reproducirlo?**
@@ -28,6 +31,6 @@ Una descripción clara y concisa de lo que debería suceder en realidad.
 **Capturas de pantalla**
 Si corresponde, agregue capturas de pantalla para ayudar a explicar su problema.
 
-**Contexto adicional**
-Agregue cualquier otro contexto sobre el problema aquí.
+**Datos extra:**
+Agregue cualquier otro dato extra sobre el problema.
 
