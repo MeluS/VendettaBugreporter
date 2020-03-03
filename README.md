@@ -14,7 +14,7 @@ Un título corto para describir el error.
  
 **Describa el error:**
 
-Una descripción clara y concisa de lo que es el error.
+Una descripción clara y concisa explicando lo que no funciona bien.
 
 **¿Cómo podemos reproducirlo?**
 
