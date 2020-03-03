@@ -9,12 +9,15 @@
 Puedes postear una incidencia haciendo [**click aquí**](https://github.com/MeluS/VendettaPTRLK/issues/new) directamente.
 
 **Título:**
+
 Un título corto para describir el error.
  
 **Describe el error:**
+
 Una descripción clara y concisa de lo que es el error.
 
 **¿Cómo reproducirlo?**
+
 Pasos para reproducir el error, por ejemplo:
 ```
 1. Ir a '...'
