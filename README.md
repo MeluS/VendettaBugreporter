@@ -18,7 +18,7 @@ Una descripción clara y concisa explicando lo que no funciona bien.
 
 **¿Cómo podemos reproducirlo?**
 
-Pasos para reproducir el error, por ejemplo:
+Necesitaremos pasos para poder reproducir el error nosotros, por ejemplo:
 ```
 1. Ir a '...'
 2. Hablar con '....'
@@ -38,7 +38,7 @@ Si es necesario, adjunte capturas de pantalla para ayudar a explicar el problema
 
 **Datos extra:**
 
-Agregue cualquier otro dato extra sobre la incidencia.
+Si lo cree conveniente, puede poner cualquier otro dato extra sobre la incidencia.
 ____________________________________________________________________________________________________
 # Vídeo-guía de cómo postear una incidencia.
 - WORK IN PROGRESS
