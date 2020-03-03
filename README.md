@@ -46,4 +46,5 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________
 [![VendettaLK text](http://ptr.vendettawow.com/images/asedio.png)](http://ptr.vendettawow.com/)
+<p align="center">Plataforma de reportes de inicidencias - [VendettaWoW](https://www.vendettawow.com) - 2011 - 2020</p>
 ____________________________________________________________________________________________________
