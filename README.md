@@ -42,8 +42,6 @@ Si lo cree conveniente, puede poner cualquier otro dato extra sobre la incidenci
 ____________________________________________________________________________________________________
 # Vídeo-guía de cómo postear una incidencia.
 - WORK IN PROGRESS
-
-
 ____________________________________________________________________________________________________
 [![VendettaLK text](http://ptr.vendettawow.com/images/asedio.png)](http://ptr.vendettawow.com/)
 <p align="center">Plataforma de reportes de inicidencias <a href="https://www.vendettawow.com" title="VendettaWoW"><b>VendettaLK</b></a></p>
