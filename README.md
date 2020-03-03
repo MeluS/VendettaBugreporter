@@ -6,7 +6,7 @@
 - Como plataforma de uso compartido de toda la comunidad, nos reservamos el derecho de bloquear, expulsar o eliminar cualquier contenido que inflinja las [**Normas Vendetta**](https://www.vendettawow.com/forums.php?do=view&idthread=897).
 
 # ¿Cómo reportar un error?
-Puedes crear un reporte de bug haciendo [**click aquí**](https://github.com/MeluS/VendettaPTRLK/issues/new) directamente.
+Puedes postear una incidencia haciendo [**click aquí**](https://github.com/MeluS/VendettaPTRLK/issues/new) directamente.
 
 **Título.**
 Un título corto para describir el error.
@@ -28,9 +28,9 @@ Una descripción clara y concisa de lo que debería suceder en realidad.
 Facilitar datos o referencias.
 
 **Capturas de pantalla**
-Si corresponde, agrega capturas de pantalla para ayudar a explicar el problema.
+Agrega capturas de pantalla para ayudar a explicar el problema.
 
 **Datos extra:**
-Agregar cualquier otro dato extra sobre el problema.
+Agregar cualquier otro dato extra sobre la incidencia.
 
 # Vídeo-guía de cómo postear una incidencia.
