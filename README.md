@@ -21,7 +21,6 @@ Pasos para reproducir el error, ejemplo:
 1. Ir a '...'
 2. Hablar con '....'
 3. Entrar en '....'
-4. Al hacer estos pasos ver el error.
 ```
 **¿Tienes algúna referencia o datos?**
 Facilitar datos o referencias es imprescindible para hacer un arreglo estando seguros.
