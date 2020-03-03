@@ -34,3 +34,4 @@ Agrega capturas de pantalla para ayudar a explicar el problema.
 Agregar cualquier otro dato extra sobre la incidencia.
 
 # Vídeo-guía de cómo postear una incidencia.
+- WORK IN PROGRESS
