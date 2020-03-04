@@ -21,10 +21,11 @@ Una descripción clara y concisa explicando lo que no funciona bien.
 
 Necesitaremos pasos para poder reproducir el error nosotros, por ejemplo:
 ```
-Ir a '...'
+Poner la dificultad en '....'
 Hablar con '....'
 Entrar en '....'
 Usar '....'
+Ir a '...'
 ```
 **¿Que debería suceder realmente?**
 
