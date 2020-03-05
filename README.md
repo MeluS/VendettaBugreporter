@@ -46,5 +46,5 @@ ________________________________________________________________________________
 # Vídeo-guía de cómo postear una incidencia.
 - WORK IN PROGRESS
 ____________________________________________________________________________________________________
-[![VendettaLK text](http://ptr.vendettawow.com/images/asedio.png)](http://ptr.vendettawow.com/)
+[![VendettaLK text](https://i.gyazo.com/794336d8db258401ee88ff3d95065e38.jpg)](http://ptr.vendettawow.com/)
 <p align="center">Plataforma de reportes de inicidencias <a href="https://www.vendettawow.com" title="VendettaWoW"><b>VendettaLK</b></a></p>
