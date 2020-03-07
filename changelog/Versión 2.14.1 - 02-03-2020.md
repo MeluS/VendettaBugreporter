@@ -1,4 +1,4 @@
-Notas del parche:
+Notas del parche :
 
     • Asedio al Olympo
         ∘ Se ha habilitado la modalidad 25 jugadores en modo normal, para acceder a la banda deberéis ir a al sotano del Olympo.
