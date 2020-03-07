@@ -1,10 +1,3 @@
-
-Versión 2.14.1 - 02/03/2020
-
-Asedio al Olympo, en esta versión estamos trabajando en Asedio al Olympo en la modalidad de 25NM/25HC, actualmente está habilitado en el reino de prueba el modo 25NM, os informaremos tan pronto como habilitemos para probar el modo HC.
-
-El save de la banda se reinicia cada día, activaremos una opción para que podáis reiniciar la banda tantas veces como queráis.
-
 Notas del parche:
 
     • Asedio al Olympo
@@ -29,4 +22,3 @@ Notas del parche:
         ∘ Thyrion (Actualmente bajo revisión)
             ∘ Se ha corregido un error por el cual la consagración no desaparecía al cabo de unos segundos.
             ∘ Se ha aumentado levemente la salud.
-
