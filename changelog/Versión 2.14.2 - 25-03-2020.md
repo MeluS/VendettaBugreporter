@@ -1,0 +1,5 @@
+- Strak, se ha solucionado un error por el cual en ocasiones dejaba la instancia en combate.
+- Dulguldur, se ha solucionado un error por el cual los orbes dejaban de aparecer.
+- Dulguldur, se ha solucionado un error por el cual ciertas habilidades estaban haciendo más daño del que debían.
+- Dulguldur, se ha solucionado un error por el cual no se estaba aplicando a los jugadores el beneficio drakoniano.
+- Thyrion, se ha reducido su daño por ataque básico y se ha reducido el daño del embate
