@@ -1,0 +1,8 @@
+- Aggramar está disponible para probar hasta el 35% de salud, ahí se reiniciará.
+- Faltan por ajustar ciertos detalles, pero en lineas generales lo que vais a probar es lo que va a salir.
+- Faltan por ajustar iconos de spells.
+- El daño está ajustado pero revisaremos los resultados de los testeos.
+- Tened encuenta que necesitáis dos tanques a la vez, ambos recibirán daño.
+- No vamos a decir nada de la mecánica, os dejamos investigar.
+- Hemos colocado un npc nada más entrar en la banda que os llevará ante aggramar.
+- Ahora podréis conseguir oro en el npc de la entrada.
