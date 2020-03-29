@@ -1,4 +1,4 @@
-# [Última Actualización](http://ptr.vendettawow.com/)
+# [Última Actualización Reino PTR](http://ptr.vendettawow.com/)
 
 Versión 2.14.4 - 29/03/2020
 
