@@ -1,5 +1,4 @@
 # [Última Actualización](http://ptr.vendettawow.com/)
-__
 
 Versión 2.14.4 - 29/03/2020
 
