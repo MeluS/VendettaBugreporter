@@ -7,7 +7,7 @@
 - Deberá estar registrado en GitHub para poder postear una incidencia, puede registrarse haciendo [**click aquí**](https://github.com/join?source=header-home).
 ____________________________________________________________________________________________________
 # ¿Cómo reportar un error?
-**Puede postear una incidencia haciendo** [**click aquí**](https://github.com/MeluS/VendettaPTRLK/issues/new) **directamente.**
+**Puede postear una incidencia haciendo** [**click aquí**](https://github.com/MeluS/VendettaPTRLK/issues/new/choose) **directamente.**
 
 **Título:**
 
