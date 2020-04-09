@@ -1,6 +1,6 @@
 ---
-name: Reportar un bug
-about: Plantilla para reportar un bug de VendettaLK
+name: Reportar un error.
+about: Plantilla para reportar un bug de VendettaLK.
 title: ''
 labels: Bug
 assignees: MeluS
