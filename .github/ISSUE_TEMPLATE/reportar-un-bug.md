@@ -11,6 +11,7 @@ assignees: MeluS
 Una descripción clara y concisa explicando lo que no funciona bien.
 
 **¿Cómo podemos reproducirlo?**
+
 ```
 Necesitaremos pasos para poder reproducir el error nosotros, por ejemplo:
 Poner la dificultad en '....'
