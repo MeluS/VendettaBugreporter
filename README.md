@@ -35,9 +35,9 @@ Una descripción clara y concisa de lo que debería suceder en realidad.
 
 Facilítenos datos o referencias donde corresponda, proporcione fuentes relevantes que muestren o describan el comportamiento correcto.
 
-**Capturas de pantalla:**
+**Capturas de pantalla/Vídeos:**
 
-Si es necesario, adjunte capturas de pantalla para ayudar a explicar el problema.
+Si es necesario, adjunte capturas de pantalla para ayudar a explicar el problema, o vídeos subidos a la plataforma de YouTube en Modo Oculto.
 
 **Datos extra:**
 
