@@ -28,8 +28,7 @@ Una descripción clara y concisa de lo que debería suceder en realidad.
 **¿Tiene algúna referencia o datos?**
 Facilítenos datos o referencias donde corresponda, proporcione fuentes relevantes que muestren o describan el comportamiento correcto.
 
-**Capturas de pantalla:**
-Si es necesario, adjunte capturas de pantalla para ayudar a explicar el problema.
-
+**Capturas de pantalla/Vídeos:**
+Si es necesario, adjunte capturas de pantalla para ayudar a explicar el problema, o vídeos subidos a la plataforma de YouTube en Modo Oculto.
 **Datos extra:**
 Si lo cree conveniente, puede poner cualquier otro dato extra sobre la incidencia.
