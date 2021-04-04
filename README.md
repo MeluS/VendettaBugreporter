@@ -42,9 +42,3 @@ Si es necesario, adjunte capturas de pantalla para ayudar a explicar el problema
 **Datos extra:**
 
 Si lo cree conveniente, puede poner cualquier otro dato extra sobre la incidencia.
-____________________________________________________________________________________________________
-# Vídeo-guía de cómo postear una incidencia.
-- WORK IN PROGRESS
-____________________________________________________________________________________________________
-[![VendettaLK text](https://i.gyazo.com/794336d8db258401ee88ff3d95065e38.jpg)](http://ptr.vendettawow.com/)
-<p align="center">Plataforma de reportes de inicidencias <a href="https://www.vendettawow.com" title="VendettaWoW"><b>VendettaLK</b></a></p>
