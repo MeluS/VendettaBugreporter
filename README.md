@@ -8,6 +8,7 @@
 ____________________________________________________________________________________________________
 # ¿Cómo reportar un error?
 **Puede postear una incidencia haciendo** [**click aquí**](https://github.com/MeluS/VendettaPTRLK/issues/new/choose) **directamente.**
+(Cabe remarcar que si no lees bien la plantilla de incidencia y/o quitas/añades bien la información, tu reporte puede ser descartado)
 
 **Título:**
 
