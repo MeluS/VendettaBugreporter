@@ -1,5 +1,5 @@
 ---
-name: Reportar un bug.
+name: Reportar bug general.
 about: Utliza esta plantilla para reportar un bug de VendettaLK.
 title: ''
 labels: Bug
