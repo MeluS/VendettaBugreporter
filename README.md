@@ -1,4 +1,4 @@
-# [**VendettaBureporter**]
+# [**VendettaBugreporter**]
 
 - Como plataforma de uso compartido de toda la comunidad, nos reservamos el derecho de bloquear, expulsar o eliminar cualquier contenido que inflinja las [**Normas Vendetta**](https://www.vendettawow.com/forums.php?do=view&idthread=897).
 - Para postear una inidencia en este GitHub siga las [**plantillas que están preestablecidas**](https://github.com/MeluS/VendettaPTRLK#c%C3%B3mo-reportar-un-error), o revise los [**vídeos de como postear una incidencia**](https://github.com/MeluS/VendettaPTRLK#v%C3%ADdeo-gu%C3%ADa-de-c%C3%B3mo-postear-una-incidencia).
